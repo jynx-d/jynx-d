@@ -1,6 +1,7 @@
 <p align="center">
-  <img src=[![a.k.a.jynx's Discord status](https://dsc-readme.tsuni.dev/api/user/783389879047946301?theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512)]>
+  <img src="https://dsc-readme.tsuni.dev/api/user/783389879047946301?width=400">
 </p>
+[![a.k.a.jynx's Discord status](https://dsc-readme.tsuni.dev/api/user/783389879047946301?theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=400)](https://github.com/TetraTsunami/discord-github-preview)
 <!--
 **jynx-d/jynx-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
