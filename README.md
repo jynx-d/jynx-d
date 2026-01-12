@@ -1,4 +1,4 @@
-## Hi there 👋
+[![a.k.a.jynx's Discord status](https://dsc-readme.tsuni.dev/api/user/783389879047946301?banner=https%3A%2F%2Ftenor.com%2FnR1q689mhVA.gif&theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512)](https://github.com/TetraTsunami/discord-github-preview)
 
 <!--
 **jynx-d/jynx-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
